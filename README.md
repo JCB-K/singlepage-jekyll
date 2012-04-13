@@ -15,7 +15,7 @@ It generates a JSON file of all your pages, which you can pass to pagify.js.
 Place "singlepage-jekyll.rb" in _plugins, "root" in _includes, and jquery-min.js and pagify.js in your website root. Install ruby-json:
 
 ```
-gem install ruby
+gem install json
 ```
 
 ### Setup
